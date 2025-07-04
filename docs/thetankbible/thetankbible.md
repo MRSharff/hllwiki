@@ -422,7 +422,7 @@ Below are the damage values for the "Panzerschreck" against all American tanks:
 Notes:
 
 * For the Greyhound, anywhere in the body will do. Try not to hit the turret or wheels as it will take longer.
-* For the Stuart, the front, side, or rear plates are the place to go for. The turret will absorb more rockets than you have ammunition for in one life, so therefore is sub-optimal. The tops of the skirts that stick out over the tracks on the front of the tank are impenetrable. To see an illustration of this, go to [section 4.5.1](https://web.archive.org/web/20250409072049/https%3A//theline.gg/tankbible#4.5.1).
+* For the Stuart, the front, side, or rear plates are the place to go for. The turret will absorb more rockets than you have ammunition for in one life, so therefore is sub-optimal. The tops of the skirts that stick out over the tracks on the front of the tank are impenetrable. To see an illustration of this, go to [section 4.5.1](#451-the-stuart).
 * The Sherman medium can be penetrated and blown up *anywhere* in the front, side, or rear plates in 2 hits if you hit perpendicular to the plate. These shots each do 50% hull, so 2 add up to exactly 100%. The turret mantle on the front of the turret will not penetrate, but you can penetrate the turret anywhere else besides the mantle for a 4 shot kill.
 * "Jumbo" 75mm and 76mm can be penetrated in the side and rear of the tank for a 3 shot kill. These do 45% hull damage, so 2 of them do 90% hull and 3 kill. Take care to avoid all of the fuel canisters, boxes, and other junk strapped to the back of the tank if aiming for rear because these will not penetrate. Aim below them.
 * Testing on tanks that took more than 10 rockets to the tracks was not pursued.
